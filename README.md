@@ -8,7 +8,7 @@ record.json
 sales.json
 
 # Features
-Add new item into inventory
+* Add new item into inventory
 User can make purchase of items from the inventory.
 UpdatedRecord after adding item to inventory is having updated record.
 UpdatedRecord after selling item to inventory is having Records updated.
