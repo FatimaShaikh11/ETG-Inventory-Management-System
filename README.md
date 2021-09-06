@@ -25,4 +25,4 @@ https://github.com/NEHALGUPTA04/Inventory_Management_System
 
 # My Other Handles
  * LinkedIn : https://www.linkedin.com/in/fatima-shaikh-b9876921a/
- * Github : 
+ * Github : https://github.com/FatimaShaikh11/FatimaShaikh11
