@@ -1,5 +1,5 @@
 # ETG-Inventory-Management-System
-# Skill Indial Python For ML/AI Internship
+# Skill India Python For ML/AI Internship
 Thish repository is having all the codes used in Inventory Management System Assignment
 
 # Files
